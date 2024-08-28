@@ -1,6 +1,6 @@
 # TECBA SEMESTRE 2
 
-:newspaper: Carrera: *Sistemas Informaticos*
+:card_index: Carrera: *Sistemas Informaticos*
 
 :notebook: Materia: *Diseño y Desarrollo Web I* 
 
