@@ -7,4 +7,4 @@
 :bust_in_silhouette: Nombre Completo: *Jorge Daniel Choque Ferrufino*
 
 ---
-Soy estudiante del tecba.
+Soy estudiante del tecba, me gusta la programación.
